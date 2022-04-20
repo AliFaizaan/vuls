@@ -41,14 +41,14 @@ require (
 	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.4.0
-	github.com/vulsio/go-cti v0.0.0-20220414153043-0e9061e7c88d
+	github.com/vulsio/go-cti v0.0.1
 	github.com/vulsio/go-cve-dictionary v0.8.2-0.20211028094424-0a854f8e8f85
 	github.com/vulsio/go-exploitdb v0.4.2
 	github.com/vulsio/go-kev v0.1.1-0.20220118062020-5f69b364106f
 	github.com/vulsio/go-msfdb v0.2.1-0.20211028071756-4a9759bd9f14
 	github.com/vulsio/gost v0.4.1
 	github.com/vulsio/goval-dictionary v0.7.3
-	golang.org/x/exp v0.0.0-20220407100705-7b9b53b0aca4
+	golang.org/x/exp v0.0.0-20220414153411-bcd21879b8fd
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f
@@ -135,6 +135,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
+	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/spf13/afero v1.8.2 // indirect
 	github.com/spf13/cast v1.4.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
